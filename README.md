@@ -11,9 +11,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="70" width="60 background-color="white" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
-  <img align="center" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="30" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> 
+  <img align="center" height="30" width="40" background-color="white" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> 
 </div>
 
 ##
