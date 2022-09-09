@@ -1,5 +1,6 @@
-
-<h2 align="center">Olá! Eu sou o Samuel Faria, programador amador e estudante <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+## Olá! Eu sou o Samuel Faria, programador amador e estudante
+<div>
+</div>
 
 <div align="center"> 
   <a href="https://github.com/Samfaria2002"> 
