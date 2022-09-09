@@ -1,9 +1,11 @@
 <h2 align="center">Olá! Eu sou o Samuel Faria, programador amador e estudante <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
 <div align="center"> 
-  <a href="https://github.com/Samfaria2002"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samfaria2002&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamFaria2002&layout=compact&langs_count=7&theme=dracula"/>
+  <a align="center href="https://github.com/Samfaria2002"> 
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Samfaria2002&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamFaria2002&layout=compact&langs_count=7&theme=dracula"/>
  </div>
+ 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
