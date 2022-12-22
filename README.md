@@ -1,6 +1,4 @@
-## Olá! Eu sou o Samuel Faria, programador amador e estudante
-<div>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=450&height=100&lines=Samuel+Faria;Programador+Full+Stack+estudante;M%C3%BAsico+%2F+Baixista+-+Violonista)](https://git.io/typing-svg)
 
 <div align="center"> 
   <a href="https://github.com/Samfaria2002"> 
