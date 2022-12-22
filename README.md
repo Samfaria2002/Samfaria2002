@@ -27,7 +27,7 @@
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=SiteHtmlCssFlask"></a>
   </p>
 
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Samfaria2002?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Todos%20Os%20Meus%20Repositórios-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <!--Tecnologias Usadas-->
