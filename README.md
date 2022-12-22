@@ -1,5 +1,5 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=450&height=100&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=450&height=100&lines=The+five+boxing+wizards+jump+quickly">
   
 </p>
 
