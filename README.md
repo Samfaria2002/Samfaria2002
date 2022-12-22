@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&width=450&height=100&lines=Samuel+Faria">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&width=450&height=100&lines=Samuel+Faria;Programador+Full+Stack+estudante;M%C3%BAsico+Baixista%2FViolonista;Sempre+aprendendo+coisas+novas">
   
 </p>
