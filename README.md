@@ -21,7 +21,7 @@
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <p align="center">
-    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=SpotifyReplica"></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=InventoryProject"></a>
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=MobilePharmacyProject"></a>
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=SpotifyReplica"></a>
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=WebsitePharmacyProject"></a>
