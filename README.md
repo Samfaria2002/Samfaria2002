@@ -87,7 +87,7 @@
 <div align="center"><h2>🎮Meus Commits🎮</h2></div>
 <div align="center"> 
   
-  ![Snake animation](https://github.com/Samfaria2002/Samfaria2002/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Samfaria2002/Samfaria2002/tree/output/github-contribution-grid-snake.svg)
   
 </div>
   <div align="center"><h2>✨Obrigado!✨</h2></div>
