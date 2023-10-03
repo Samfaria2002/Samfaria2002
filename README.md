@@ -85,10 +85,8 @@
 
 <!--Commits-->  
 <div align="center"><h2>🎮Meus Commits🎮</h2></div>
-<div align="center"> 
-  
-  ![snake gif](https://github.com/Samfaria2002/Samfaria2002/tree/output/github-contribution-grid-snake.svg)
-  
+<div align="center">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samfaria2002&" alt="Samfaria2002" /></p>
 </div>
   <div align="center"><h2>✨Obrigado!✨</h2></div>
 <p align="center">
