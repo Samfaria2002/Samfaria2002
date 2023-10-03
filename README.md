@@ -80,6 +80,7 @@
   <a href="https://github.com/Samfaria2002"> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Samfaria2002&show_icons=true&theme=cobalt"/> 
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamFaria2002&layout=compact&langs_count=7&theme=cobalt"/>
+  <br>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samfaria2002&" alt="Samfaria2002" /></p>
  </div>
 </div>
