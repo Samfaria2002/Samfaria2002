@@ -84,7 +84,7 @@
 </div>
 
 <!--Commits-->  
-<div align="center"><h2>🎮Meus Commits🎮</h2></div>
+<div align="center"><h2>🎮🎮</h2></div>
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Samfaria2002&" alt="Samfaria2002" /></p>
 </div>
