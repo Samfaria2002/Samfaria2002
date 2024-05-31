@@ -23,7 +23,7 @@
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=InventoryProject"></a>
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=MobilePharmacyProject"></a>
     <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=SpotifyReplica"></a>
-    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=NeuralNetworkMovieRating"></a>
+    <a><img src="https://github-readme-stats.vercel.app/api/pin/?username=Samfaria2002&repo=ToDoListKeevo"></a>
   </p>
 
   <a href="https://github.com/Samfaria2002?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Todos%20Os%20Meus%20Repositórios-161B22?style=for-the-badge&logoColor=white&logo=repo"/></a>
